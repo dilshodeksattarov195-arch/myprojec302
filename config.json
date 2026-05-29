@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustereync",
+        "uuid": 1606640,
+        "checksum": "0h6kmb"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
